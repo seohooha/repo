@@ -1,0 +1,10 @@
+<manifest>                                                                       
+    <remote                                                                      
+        name="origin"                                                            
+        fetch="ssh://git@github.com:seohooha/repo.git"/>                                          
+    <default revision="master" remote="origin"/>                                 
+                                                                                 
+    <project                                                                     
+        path="local"                                                              
+        name="seohoo/repo"/>                                                  
+</manifest> 
