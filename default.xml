@@ -1,7 +1,7 @@
 <manifest>                                                                       
     <remote                                                                      
         name="origin"                                                            
-        fetch="ssh://git@github.com:seohooha/repo.git"/>                                          
+        fetch="ssh://git@github.com"/>                                          
     <default revision="master" remote="origin"/>                                 
                                                                                  
     <project                                                                     
